@@ -1,0 +1,2 @@
+D:\Larissa\Mestrado\PPD\Fila\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\Larissa\Mestrado\PPD\Fila\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
