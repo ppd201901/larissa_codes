@@ -5886,7 +5886,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -11690,7 +11690,7 @@
       ]
     },
     "System.ValueTuple/4.5.0": {
-      "sha512": "fa3P1cPe2SlrjCjJ/yc3mcXkDj4GQORmileNFYBtBZh2qddzwRubagAkj8yz/yF9oLvJVqaZYar9l2SCqNKDJg==",
+      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
       "type": "package",
       "path": "system.valuetuple/4.5.0",
       "files": [
@@ -12075,11 +12075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Larissa\\Mestrado\\PPD\\Fila\\Queue\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\Larissa\\Mestrado\\PPD\\GitHub\\larissa_codes\\Fila_Hangfire\\Queue\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\Larissa\\Mestrado\\PPD\\Fila\\Queue\\Client\\Client.csproj",
+      "projectPath": "D:\\Larissa\\Mestrado\\PPD\\GitHub\\larissa_codes\\Fila_Hangfire\\Queue\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-      "outputPath": "D:\\Larissa\\Mestrado\\PPD\\Fila\\Queue\\Client\\obj\\",
+      "outputPath": "D:\\Larissa\\Mestrado\\PPD\\GitHub\\larissa_codes\\Fila_Hangfire\\Queue\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,7 @@
+Generais Bizantinos com Exclusão Mútua e Socket
+
+Guilherme Ferreira Schults 
+Larissa Ramos Marques Silva
+
+Código no repositório https://github.com/ppd201901/guilhermeschults_codes
+

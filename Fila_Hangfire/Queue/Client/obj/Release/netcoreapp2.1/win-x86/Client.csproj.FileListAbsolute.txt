@@ -1,0 +1,17 @@
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.exe
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.deps.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.runtimeconfig.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.runtimeconfig.dev.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Release\netcoreapp2.1\win-x86\Client.pdb
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.csprojAssemblyReference.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.csproj.CoreCompileInputs.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.RazorAssemblyInfo.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.RazorAssemblyInfo.cs
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.AssemblyInfoInputs.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.AssemblyInfo.cs
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.RazorTargetAssemblyInfo.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Release\netcoreapp2.1\win-x86\Client.pdb

@@ -12,3 +12,17 @@ D:\Larissa\Mestrado\PPD\Fila\Queue\Client\obj\Debug\netcoreapp2.1\Client.Assembl
 D:\Larissa\Mestrado\PPD\Fila\Queue\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cache
 D:\Larissa\Mestrado\PPD\Fila\Queue\Client\obj\Debug\netcoreapp2.1\Client.dll
 D:\Larissa\Mestrado\PPD\Fila\Queue\Client\obj\Debug\netcoreapp2.1\Client.pdb
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Debug\netcoreapp2.1\Client.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\bin\Debug\netcoreapp2.1\Client.pdb
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cs
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cache
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.dll
+D:\Larissa\Mestrado\PPD\GitHub\larissa_codes\Fila_Hangfire\Queue\Client\obj\Debug\netcoreapp2.1\Client.pdb
